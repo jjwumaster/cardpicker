@@ -1,0 +1,12 @@
+.container > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    color: black;
+}
+
+html, body {
+  background-color: white;
+  margin: 10px;
+}
